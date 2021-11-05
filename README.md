@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Veeran-1993
-- 👀 I’m interested in HTML, CSS and JavaScript
+- 👀 I’m interested in HTML, CSS, JavaScript and Python
 - 🌱 I’m currently learning Web Development...
 - 💞️ I’m looking to collaborate on exciting projects to build my portfolio
 - 📫 How to reach me - rveeran1993@gmail.com
